@@ -1,0 +1,24 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "",
+  "main": "wilder.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node wilder.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/adrale/wilders.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adrale/wilders/issues"
+  },
+  "homepage": "https://github.com/adrale/wilders#readme",
+  "type": "module",
+  "dependencies": {
+    "chalk": "^5.3.0"
+  }
+}
